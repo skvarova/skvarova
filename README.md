@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulina 
 - 👀 I’m interested in dietetics, TV series (crime, fantasy, horror), fantasy and crime movies, nail styling, and recently I have become interested in HTML, CSS and software testing.
-- 🌱 I’m currently learning HTML, CSS and software testing (XML, Soap UI, JIRA, SQL)
+- 🌱 I’m currently learning HTML, CSS and software testing (XML, Soap UI, JIRA, SQL, Postman)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
