@@ -9,15 +9,21 @@ Portfolio under construction
 # Tools
 * JIRA
 * Confluence
+* RQM
 * Postman
 * Gearbox
 * Fiddler
 * Vysor
 * Visual Studio Code
+* WebDriver Selenium - Python
 * MySQL Workbench
 * Oracle VM VirtualBox
 # Skills
-
+* Smoke tests
+* Exploratory tests
+* Reporting defects
+* Create test cases
+* Functional tests
 # My bug reports
 
 # My example test scenarios
